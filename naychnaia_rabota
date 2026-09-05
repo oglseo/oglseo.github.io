@@ -1,0 +1,407 @@
+<!doctype html>
+<html lang="ru-RU">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Научная работа | domzaytsa.ru</title>
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  <link rel="pingback" href="https://domzaytsa.ru/xmlrpc.php">
+  <!--[if lt IE 9]>
+<script src="https://domzaytsa.ru/wp-content/themes/zerif-lite/js/html5.js"></script>
+<link rel="stylesheet" href="https://domzaytsa.ru/wp-content/themes/zerif-lite/css/ie.css" type="text/css">
+<![endif]-->
+  <meta name="robots" content="max-image-preview:large">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="alternate" type="application/rss+xml" title="domzaytsa.ru » Лента" href="https://domzaytsa.ru/feed/">
+  <link rel="alternate" type="application/rss+xml" title="domzaytsa.ru » Лента комментариев" href="https://domzaytsa.ru/comments/feed/">
+  <link rel="alternate" type="application/rss+xml" title="domzaytsa.ru » Лента рубрики Научная работа" href="https://domzaytsa.ru/category/naychnaia_rabota/feed/">
+  <script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/domzaytsa.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.10"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+  <style id="wp-emoji-styles-inline-css" type="text/css">
+ 
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+  <style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+  <style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+  <link rel="stylesheet" id="zerif_font-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C400italic%7CMontserrat%3A700%7CHomemade+Apple&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+  <link rel="stylesheet" id="zerif_font_all-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600italic%2C600%2C700%2C700italic%2C800%2C800italic&amp;ver=6.5.10" type="text/css" media="all">
+  <link rel="stylesheet" id="zerif_bootstrap_style-css" href="https://domzaytsa.ru/wp-content/themes/zerif-lite/css/bootstrap.css?ver=6.5.10" type="text/css" media="all">
+  <link rel="stylesheet" id="zerif_fontawesome-css" href="https://domzaytsa.ru/wp-content/themes/zerif-lite/css/font-awesome.min.css?ver=v1" type="text/css" media="all">
+  <link rel="stylesheet" id="zerif_pixeden_style-css" href="https://domzaytsa.ru/wp-content/themes/zerif-lite/css/pixeden-icons.css?ver=v1" type="text/css" media="all">
+  <link rel="stylesheet" id="zerif_style-css" href="https://domzaytsa.ru/wp-content/themes/zerif-lite/style.css?ver=v1" type="text/css" media="all">
+  <link rel="stylesheet" id="zerif_responsive_style-css" href="https://domzaytsa.ru/wp-content/themes/zerif-lite/css/responsive.css?ver=v1" type="text/css" media="all">
+  <script type="text/javascript" src="https://domzaytsa.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+  <script type="text/javascript" src="https://domzaytsa.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+  <link rel="https://api.w.org/" href="https://domzaytsa.ru/wp-json/">
+  <link rel="alternate" type="application/json" href="https://domzaytsa.ru/wp-json/wp/v2/categories/1">
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://domzaytsa.ru/xmlrpc.php?rsd">
+  <meta name="generator" content="WordPress 6.5.10">
+  <script>
+                    document.documentElement.classList.add("leyka-js");
+                </script>
+  <style>
+                    :root {
+                        --color-main: 		#1db318;
+                        --color-main-dark: 	#1aa316;
+                        --color-main-light: #acebaa;
+                    }
+                </style>
+  <style>/* CSS added by WP Meta and Date Remover*/.wp-block-post-author__name{display:none !important;}
+.wp-block-post-date{display:none !important;}
+ .entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }</style>
+  <meta name="generator" content="Elementor 3.17.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+  <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://domzaytsa.ru/wp-content/themes/zerif-lite/images/bg.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+  <link rel="icon" href="https://domzaytsa.ru/wp-content/uploads/2024/06/cropped-16на16-32x32.png" sizes="32x32">
+  <link rel="icon" href="https://domzaytsa.ru/wp-content/uploads/2024/06/cropped-16на16-192x192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="https://domzaytsa.ru/wp-content/uploads/2024/06/cropped-16на16-180x180.png">
+  <meta name="msapplication-TileImage" content="https://domzaytsa.ru/wp-content/uploads/2024/06/cropped-16на16-270x270.png">
+ </head>
+ <body class="archive category category-naychnaia_rabota category-1 elementor-default elementor-kit-6">
+  <!-- =========================
+ 
+   PRE LOADER
+ 
+============================== -->
+  <header id="home" class="header">
+   <div id="main-nav" class="navbar navbar-inverse bs-docs-nav" role="banner">
+    <div class="container">
+     <div class="navbar-header responsive-logo">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+      <a href="https://domzaytsa.ru/" class="navbar-brand"><img src="http://domzaytsa.ru/wp-content/uploads/2024/06/cropped-Эмблема-С-черная-на-прозрачном.png" alt="domzaytsa.ru"></a>
+     </div>
+     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" id="site-navigation">
+      <ul id="menu-menu-1" class="nav navbar-nav navbar-right responsive-nav main-nav-list">
+       <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-40"><a href="https://domzaytsa.ru/">Главная</a></li>
+       <li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="https://domzaytsa.ru/friend/">Наши друзья</a></li>
+       <li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://domzaytsa.ru/contacty/">Контакты</a></li>
+       <li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-175"><a href="https://domzaytsa.ru/category/naychnaia_rabota/" aria-current="page">Научная работа</a></li>
+       <li id="menu-item-387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-387"><a href="#">Про нас</a>
+        <ul class="sub-menu">
+         <li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://domzaytsa.ru/o-centre/">О центре</a></li>
+         <li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://domzaytsa.ru/smi-o-nas/">СМИ о нас</a></li>
+         <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://domzaytsa.ru/soc-seti/">Социальные сети</a></li>
+         <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://domzaytsa.ru/otchet/">Отчеты</a></li>
+         <li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://domzaytsa.ru/kak-pomoch/">Как помочь</a></li>
+        </ul></li>
+       <li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-641"><a href="https://domzaytsa.ru/zaytsa_pod_opeky/">Возьми зайца под опеку!</a></li>
+      </ul>
+     </nav>
+    </div>
+   </div>
+   <!-- / END TOP BAR -->
+   <div class="clear"></div>
+  </header>
+  <!-- / END HOME SECTION  -->
+  <div id="content" class="site-content">
+   <div class="container">
+    <div class="content-left-wrap col-md-9">
+     <div id="primary" class="content-area">
+      <main id="main" class="site-main" role="main">
+       <header class="page-header">
+        <h1 class="page-title">Научная работа</h1>
+       </header>
+       <!-- .page-header -->
+       <article id="post-2311" class="post-2311 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2025/03/18/%d0%b2%d1%8b%d1%80%d0%b0%d1%89%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%bd%d1%8f%d0%ba%d0%b0-%d0%b7%d0%b0%d0%b9%d1%86%d0%b5%d0%b2-%d0%b2-%d1%83%d1%81%d0%bb%d0%be%d0%b2/" rel="bookmark">ВЫРАЩИВАНИЕ МОЛОДНЯКА ЗАЙЦЕВ В УСЛОВИЯХ ЦЕНТРА РЕАБИЛИТАЦИИ ДИКИХ ЖИВОТНЫХ «ДОМ ЗАЙЦА» (2020г)</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2025/03/18/%d0%b2%d1%8b%d1%80%d0%b0%d1%89%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%bd%d1%8f%d0%ba%d0%b0-%d0%b7%d0%b0%d0%b9%d1%86%d0%b5%d0%b2-%d0%b2-%d1%83%d1%81%d0%bb%d0%be%d0%b2/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>ГРИГОРЬЕВА К.А. ТРУДЫ ВСЕРОССИЙСКОГО НИИ ЭКСПЕРИМЕНТАЛЬНОЙ ВЕТЕРИНАРИИ ИМЕНИ Я.Р. КОВАЛЕНКО
+            <br>
+            Федеральный научный центр — Всероссийский научно-исследовательский институт экспериментальной ветеринарии им. К.И. Скрябина и Я.Р. Коваленко РАН
+            <br>
+            Эксперимент по разработке метода реабилитации молодняка зайца-беляка Lepus timidus (L., 1758) и зайца-русака Lepus europaeus (Pallas, 1778) проводился на базе Центра реабилитации диких животных «Дом Зайца». Разработанный метод позволяет реабилитировать и вернуть в природу 60 % от поступивших в Центр животных и создать условия для доживания 10,1% зайцев, имеющих поведенческие или физические отклонения. Наличие смертности существенно ниже природной, показывает результативность и обоснованность применение методики для реабилитации молодняка зайцев с последующим возвратом в природу или для дальнейшего содержания.</p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-2302" class="post-2302 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2025/03/18/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%b8%d0%b5-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81%d0%be%d0%b2-%d0%b7%d0%b0%d0%b9%d1%86%d0%b0-%d0%b1%d0%b5%d0%bb%d1%8f%d0%ba%d0%b0-%d0%b2-%d1%86%d0%b5%d0%bd/" rel="bookmark">СОСТОЯНИЕ РЕСУРСОВ ЗАЙЦА-БЕЛЯКА В ЦЕНТРЕ ЕВРОПЕЙСКОЙ ЧАСТИ РОССИИ НА ПРИМЕРЕ КОСТРОМСКОЙ ОБЛАСТИ</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2025/03/18/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%b8%d0%b5-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81%d0%be%d0%b2-%d0%b7%d0%b0%d0%b9%d1%86%d0%b0-%d0%b1%d0%b5%d0%bb%d1%8f%d0%ba%d0%b0-%d0%b2-%d1%86%d0%b5%d0%bd/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>ТКАЧЕВА И.С.1, ЧУГРЕЕВ М.К.1, ГРИГОРЬЕВА К.А.2
+            <br>
+            Год издания: 2024; УДК: 639.1
+            <br>
+            На основе многолетних первичных официальных данных определены некоторые популяционные характеристики состояния ресурсов зайца-беляка в центральной части европейской России на примере Костромской области. Показано изменение численности и плотности населения зайца-беляка за последние 27 лет. В ходе исследований установлены значения статических и динамических популяционных показателей: численности и плотности населения зайцев-беляков, многолетние средние значения численности и объёмов добычи, абсолютная и относительная скорости изменения численности популяции, динамика численности и объёмов добычи.</p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-2293" class="post-2293 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2025/03/18/%d0%b7%d0%b0%d1%81%d0%b5%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b8%d1%81%d0%ba%d1%83%d1%81%d1%81%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%bd%d0%be%d0%b3/" rel="bookmark">ЗАСЕДАНИЕ ДИСКУССИОННОГО ЭКСПЕРТНОГО КЛУБА «АКТУАЛЬНЫЕ ВОПРОСЫ ЗАЩИТЫ ЖИВОТНЫХ И СОХРАНЕНИЯ БИОЛОГИЧЕСКОГО РАЗНООБРАЗИЯ В СОВРЕМЕННОЙ РОССИИ» 2021 год</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2025/03/18/%d0%b7%d0%b0%d1%81%d0%b5%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b8%d1%81%d0%ba%d1%83%d1%81%d1%81%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%bd%d0%be%d0%b3/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>Пресс-релиз заседания Дискуссионного экспертного клуба «Актуальные вопросы защиты животных и сохранения биологического разнообразия в современной России», посвященное проблемам защиты диких животных и работы центров по их спасению и реабилитации. Заседание состоялось 28 сентября 2021 года в Доме общественных организаций (г. Москва)</p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-213" class="post-213 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2024/01/26/leveret/" rel="bookmark">Нашел зайчонка: что делать?</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2024/01/26/leveret/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>Инструкция для тех, кто встретил на своём пути зайчонка.Пожалуйста, прочтите до конца… Я иду и вижу перед собой маленького зайчонка с ладошку, что мне делать? Если зайчонок сидит в траве&nbsp;— просто пройдите мимо! Он не брошен. Недалеко находится его мать. Вы её не увидите, так как зайцы слишком боятся человека и не могут показаться ему<a href="https://domzaytsa.ru/2024/01/26/leveret/">[…]</a></p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-199" class="post-199 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2024/01/24/%d0%bf%d0%be%d1%81%d1%82%d1%80%d0%b5%d0%b0%d0%b1%d0%b8%d0%bb%d0%b8%d1%82%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b5%d0%b8%d0%bd%d1%82%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d1%8f/" rel="bookmark">ПОСТРЕАБИЛИТАЦИОННАЯ РЕИНТРОДУКЦИЯ ДВУХ ВИДОВ ЗАЙЦА НА ТЕРРИТОРИИ ЗАКАЗНИКА ЗВЕНИГОРОДСКОЙ БИОСТАНЦИИ МГУ</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2024/01/24/%d0%bf%d0%be%d1%81%d1%82%d1%80%d0%b5%d0%b0%d0%b1%d0%b8%d0%bb%d0%b8%d1%82%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b5%d0%b8%d0%bd%d1%82%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d1%8f/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>УДК: 59.006 ПОСТРЕАБИЛИТАЦИОННАЯ РЕИНТРОДУКЦИЯ ДВУХ ВИДОВ ЗАЙЦА НА ТЕРРИТОРИИ ЗАКАЗНИКА ЗВЕНИГОРОДСКОЙ БИОСТАНЦИИ МГУ Григорьева К.А., Варшавский А.А. Мухачев Е.В. Сборник (РИНЦ) Труды Всероссийского НИИ Экспериментальной Ветеринарии Имени Я.Р. Коваленко, том 82</p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-188" class="post-188 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2024/01/24/%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%80%d0%b5%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%b7%d0%b0%d0%b9%d1%86%d0%b0-%d0%b1%d0%b5%d0%bb%d1%8f%d0%ba/" rel="bookmark">ОСОБЕННОСТИ РЕПРОДУКЦИИ ЗАЙЦА-БЕЛЯКА LEPUS TIMIDUS ПРИ СОДЕРЖАНИИ В УСЛОВИЯХ НЕВОЛИ</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2024/01/24/%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%80%d0%b5%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%b7%d0%b0%d0%b9%d1%86%d0%b0-%d0%b1%d0%b5%d0%bb%d1%8f%d0%ba/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>УДК 59.006 К.А. ГРИГОРЬЕВА, Центр реабилитации и реинтродукции диких животных «ДомЗайца», domzaytsa@gmail.com&nbsp; Е.В. МУХАЧЕВ, к.биол.наук, evgeniy012@gmail.com&nbsp; K.A. GRIGORIEVA, Center of wild animals rehabilitation and reintroduction «Hare house»,domzaytsa@gmail.com&nbsp; E.V. MUKHACHEV, cand of Biol. Sc., evgeniy012@gmail.com ОСОБЕННОСТИ РЕПРОДУКЦИИ ЗАЙЦА-БЕЛЯКА LEPUS TIMIDUSПРИ СОДЕРЖАНИИ В УСЛОВИЯХ НЕВОЛИ В настоящее время для зайца-беляка Lepus timidus (L., 1758) отмечается отсутствиеактуальных достоверных<a href="https://domzaytsa.ru/2024/01/24/%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%80%d0%b5%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%b7%d0%b0%d0%b9%d1%86%d0%b0-%d0%b1%d0%b5%d0%bb%d1%8f%d0%ba/">[…]</a></p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-183" class="post-183 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2024/01/24/%d0%bf%d0%b0%d1%82%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b4%d1%8b%d1%85%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%b7%d0%b0%d0%b9%d1%86%d0%b5/" rel="bookmark">ПАТОЛОГИИ ДЫХАТЕЛЬНОЙ СИСТЕМЫ ЗАЙЦЕВ-РУСАКОВ И ЗАЙЦЕВ-БЕЛЯКОВ В ЦЕНТРЕ РЕАБИЛИТАЦИИ ДИКИХ ЖИВОТНЫХ</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2024/01/24/%d0%bf%d0%b0%d1%82%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b4%d1%8b%d1%85%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%b7%d0%b0%d0%b9%d1%86%d0%b5/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>Д.В. Долгая, А.А. Первов, К.А. Григорьева ФГБОУ ВО «Российский биотехнологический университет» Росбиотех, Москва Ветеринарный центр «Ковчег», Москва Центр реабилитации диких животных «Дом Зайца», Москва DOI: 10.31016/viev-2023-83-4-13 УДК 616:59:574 Аннотация «Дом Зайца» — это центр спасения и реабилитации диких животных, принимающий молодняк и взрослых зайцев-русаков и зайцев-беляков, которые нуждаются в ветеринарной помощи и дальнейшей реабилитации. «Дом<a href="https://domzaytsa.ru/2024/01/24/%d0%bf%d0%b0%d1%82%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8-%d0%b4%d1%8b%d1%85%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%b7%d0%b0%d0%b9%d1%86%d0%b5/">[…]</a></p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <article id="post-177" class="post-177 post type-post status-publish format-standard hentry category-naychnaia_rabota">
+        <div class="listpost-content-wrap-full">
+         <div class="list-post-top">
+          <header class="entry-header">
+           <h1 class="entry-title"><a href="https://domzaytsa.ru/2024/01/23/metod_virachivaniai/" rel="bookmark">МЕТОД ВЫРАЩИВАНИЯ МОЛОДНЯКА LEPUS TIMIDUS И LEPUS EUROPAEUS В УСЛОВИЯХ ЦЕНТРОВ РЕАБИЛИТАЦИИ ДИКИХ ЖИВОТНЫХ</a></h1>
+           <div class="entry-meta">
+            <span class="posted-on">Опубликовано: <a href="https://domzaytsa.ru/2024/01/23/metod_virachivaniai/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline">, автор: <span class="author vcard"><a class="url fn n" href="https://domzaytsa.ru/author/admin/"></a></span></span>
+           </div>
+           <!-- .entry-meta -->
+          </header>
+          <!-- .entry-header -->
+          <div class="entry-content">
+           <p>К.А. Григорьева Центр реабилитации диких животных «Дом Зайца», Москва DOI: 10.31016/viev-2023-83-4-12 УДК 574:59 Аннотация. Эксперимент по разработке метода реабилитации молодняка зайца-беляка Lepus timidus (L., 1758) и зайца-русака Lepus europaeus (Pallas, 1778) проводился на базе Центра реабилитации диких животных «Дом Зайца». Разработанный метод позволяет реабилитировать и вернуть в природу 60 % от поступивших в Центр животных<a href="https://domzaytsa.ru/2024/01/23/metod_virachivaniai/">[…]</a></p>
+           <footer class="entry-footer"></footer>
+           <!-- .entry-footer -->
+          </div>
+          <!-- .entry-content -->
+          <!-- .entry-summary -->
+         </div>
+         <!-- .list-post-top -->
+        </div>
+        <!-- .listpost-content-wrap -->
+       </article>
+       <!-- #post-## -->
+       <div class="clear"></div>
+       <nav class="navigation paging-navigation" role="navigation">
+        <h1 class="screen-reader-text">Навигация по записям</h1>
+        <div class="nav-links"></div>
+        <!-- .nav-links -->
+       </nav>
+       <!-- .navigation -->
+      </main>
+      <!-- #main -->
+     </div>
+     <!-- #primary -->
+    </div>
+    <!-- .content-left-wrap -->
+    <div class="sidebar-wrap col-md-3 content-left-wrap">
+     <div id="secondary" class="widget-area" role="complementary">
+      <aside id="search" class="widget widget_search">
+       <form role="search" method="get" class="search-form" action="https://domzaytsa.ru/">
+        <label> <span class="screen-reader-text">Найти:</span> <input type="search" class="search-field" placeholder="Поиск…" value="" name="s"> </label> <input type="submit" class="search-submit" value="Поиск">
+       </form>
+      </aside>
+      <aside id="archives" class="widget">
+       <h1 class="widget-title">Архивы</h1>
+       <ul>
+        <li><a href="https://domzaytsa.ru/2025/03/">Март 2025</a></li>
+        <li><a href="https://domzaytsa.ru/2024/01/">Январь 2024</a></li>
+       </ul>
+      </aside>
+      <aside id="meta" class="widget">
+       <h1 class="widget-title">Мета</h1>
+       <ul>
+        <li><a href="https://domzaytsa.ru/wp-login.php">Войти</a></li>
+       </ul>
+      </aside>
+     </div>
+     <!-- #secondary -->
+    </div>
+    <!-- .sidebar-wrap -->
+   </div>
+   <!-- .container -->
+   <footer id="footer">
+    <div class="container">
+     <div class="col-md-4 company-details">
+      <div class="icon-top red-text"></div>
+      <a href="https://www.youtube.com/channel/UCunQ0uekesNedXHZlEh-g7g"><img src="http://domzaytsa.ru/wp-content/uploads/2023/11/youtube-e1700562920255.png"></a> <a href="https://vk.com/crz_dom_zaytsa"><img src="http://domzaytsa.ru/wp-content/uploads/2023/11/vimeo.png"></a> <a href="https://t.me/dom_zaytsa"><img src="http://domzaytsa.ru/wp-content/uploads/2023/11/telegram-e1647378211576.png"></a> <a href="https://dzen.ru/dom_zaytsa"><img src="https://www.fondmir.org/wp-content/uploads/2023/03/yandex-dzen_logo.png"></a> <a href="https://boosty.to/domzaytsa"><img src="http://domzaytsa.ru/wp-content/uploads/2023/11/46163_original-e1700563702151.png"></a>
+     </div>
+     <div class="col-md-4 company-details">
+      <div class="icon-top green-text">
+       <img src="https://domzaytsa.ru/wp-content/themes/zerif-lite/images/envelope4-green.png">
+      </div>
+      <a href="mailto:Domzaytsa@gmail.com">domzaytsa@gmail.com</a>
+     </div>
+     <div class="col-md-4 company-details">
+      <div class="icon-top blue-text">
+       <img src="https://domzaytsa.ru/wp-content/themes/zerif-lite/images/telephone65-blue.png">
+      </div>
+      <a href="tel:+79258410461">+7 (925) 841-04-61</a>
+     </div>
+    </div>
+    <!-- / END CONTAINER -->
+   </footer>
+   <!-- / END FOOOTER  -->
+   <script type="text/javascript" id="custom-script-js-extra">
+/* <![CDATA[ */
+var wpdata = {"object_id":"1","site_url":"https:\/\/domzaytsa.ru"};
+/* ]]> */
+</script>
+   <script type="text/javascript" src="https://domzaytsa.ru/wp-content/plugins/wp-meta-and-date-remover/assets/js/inspector.js?ver=1.0" id="custom-script-js"></script>
+   <script type="text/javascript" src="https://domzaytsa.ru/wp-content/themes/zerif-lite/js/bootstrap.min.js?ver=20120206" id="zerif_bootstrap_script-js"></script>
+   <script type="text/javascript" src="https://domzaytsa.ru/wp-content/themes/zerif-lite/js/jquery.knob.js?ver=20120206" id="zerif_knob_nav-js"></script>
+   <script type="text/javascript" src="https://domzaytsa.ru/wp-content/themes/zerif-lite/js/smoothscroll.js?ver=20120206" id="zerif_smoothscroll-js"></script>
+   <script type="text/javascript" src="https://domzaytsa.ru/wp-content/themes/zerif-lite/js/scrollReveal.js?ver=20120206" id="zerif_scrollReveal_script-js"></script>
+   <script type="text/javascript" src="https://domzaytsa.ru/wp-content/themes/zerif-lite/js/zerif.js?ver=20120206" id="zerif_script-js"></script>
+  </div>
+ </body>
+</html>
